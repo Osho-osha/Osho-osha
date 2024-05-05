@@ -1,5 +1,5 @@
 - 👋🏻Hi, I’m Natalya
-- 🐣I’m currently learning C, C++ and  Java. Looking forward to learning Kotlin and JavaScript
+- 🐣I’m currently learning C, C++ and  Java. Looking forward to learning Go and JavaScript
 - 📽Fun fact:  a big fan of true crime shows
 
 <!---
